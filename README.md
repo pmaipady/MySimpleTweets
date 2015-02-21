@@ -254,3 +254,4 @@ Picasso.with(this).load(imageUrl).
 ```
 
 This will load an image into the specified ImageView and resize the image to fit.
+
